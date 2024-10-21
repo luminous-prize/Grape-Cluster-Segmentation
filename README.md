@@ -14,7 +14,6 @@ The GrapesNet dataset consists of four distinct grape bunch datasets from vineya
 ## Models
 
 ### SegNet
-**Research Paper Link**: 
 
 SegNet is a deep learning framework specifically developed for semantic segmentation in computer vision. It enables pixel-wise classification in images, allowing each pixel to be assigned a class label for identifying objects or regions. Key features include:
 
@@ -106,5 +105,5 @@ To segment images in your dataset, you will need annotated images.
 
 ### Obtaining Annotated Images
 There are two methods to achieve this:
-1. **Edge Detection Techniques**: [Colab File Link]
+1. **Edge Detection Techniques**
 2. **Manual Annotation**: Use annotation tools like the VGG Image Annotator (VIA).
