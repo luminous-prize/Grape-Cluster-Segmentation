@@ -107,6 +107,4 @@ To segment images in your dataset, you will need annotated images.
 ### Obtaining Annotated Images
 There are two methods to achieve this:
 1. **Edge Detection Techniques**: [Colab File Link]
-2. **Manual Annotation**: Use annotation tools like the VGG Image Annotator (VIA) from Oxford University.  
-   Video tutorial: [Watch Here](https://www.youtube.com/watch?v=AYLJ3YC07oI)  
-   For a coding guide, check this Colab file: [Link](https://colab.research.google.com/drive/12XxXG-ZQryopv-resY6VUa5QGjnD_hJc?usp=sharing)
+2. **Manual Annotation**: Use annotation tools like the VGG Image Annotator (VIA).
