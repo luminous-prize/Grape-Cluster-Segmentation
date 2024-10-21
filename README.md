@@ -110,7 +110,3 @@ There are two methods to achieve this:
 2. **Manual Annotation**: Use annotation tools like the VGG Image Annotator (VIA) from Oxford University.  
    Video tutorial: [Watch Here](https://www.youtube.com/watch?v=AYLJ3YC07oI)  
    For a coding guide, check this Colab file: [Link](https://colab.research.google.com/drive/12XxXG-ZQryopv-resY6VUa5QGjnD_hJc?usp=sharing)
-
-### Preparing Dataset in Batches Using ImageDataGenerator in TensorFlow
-
-### Implementation of Various Semantic Segmentation Algorithms and Their Results:
