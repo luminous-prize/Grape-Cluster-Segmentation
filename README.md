@@ -1,4 +1,4 @@
-# Transforming Precision Agriculture through Deep Learning: CNN Encoder-Decoders and a Hybrid YOLOv8-SAM Solution for Advanced Grape Cluster Segmentation
+# CNN Encoder-Decoders based Architectures for Grape Image Segmentation
 Image segmentation using the GrapesNet dataset.
 
 ## GrapesNet Dataset
